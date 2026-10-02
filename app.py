@@ -69,3 +69,5 @@ if prediction_proba > 0.5:
     st.write("person is likely to churn")
 else:
     st.write("person is not likely to churn")
+
+#No more changes can be done after this
